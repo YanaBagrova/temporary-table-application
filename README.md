@@ -9,7 +9,7 @@ JavaScript
 
 **DB**: PostgreSQL, Sequelize ORM
 
-**Back**: Node.js, Express.js
+**Back**: Node.js
 
 ### Установка:
    * npm i
